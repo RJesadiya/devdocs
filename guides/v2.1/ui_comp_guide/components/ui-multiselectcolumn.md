@@ -25,7 +25,7 @@ Templates used by this component are:
 
 ## MultiselectColumn configuration
 
-Extends all [Column]({{page.baseurl}}ui_comp_guide/components/listing/ui-column.html) configuration.
+Extends all [Column]({{page.baseurl}}ui_comp_guide/components/ui-column.html) configuration.
 
 MultiselectColumn-specific configuration:
 
